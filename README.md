@@ -14,7 +14,7 @@ I specialize in security event monitoring, Windows forensics, threat intelligenc
 ---
 
 ### 📌 Featured Projects & Central Hub
-* **[Central SOC Portfolio Hub](https://github.com/oputaernestina321-netizen/soc-analyst-portfolio)** — Executive index containing all completed investigation reports[span_0](start_span)[span_0](end_span).
+* **[Central SOC Portfolio Hub](https://github.com/oputaernestina321-netizen/soc-analyst-portfolio)** — Executive index containing all completed investigation reports.
 * **[Wazuh SIEM Deployment Lab](https://github.com/oputaernestina321-netizen/Wazuh_SIEM_Home_Lab)** — Centralized log collection and authentication failure alerting.
 * **[SOC Incident Response: Brute-Force Analysis](https://github.com/oputaernestina321-netizen/soc-incident-response-bruteforce-analysis)** — End-to-end telemetry correlation of credential-guessing attacks.
 * **[WannaCry Ransomware Malware Triage](https://github.com/oputaernestina321-netizen/malware-analysis-wannacry)** — Sandbox behavioral analysis and IOC extraction standard operating procedure.
